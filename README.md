@@ -30,7 +30,6 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
     <tr>
       <td>3rd Year</td>
       <td style="white-space: nowrap;">
-        No formal courses
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="48" height="48" />
       </td>
       <td style="white-space: nowrap;">
@@ -46,7 +45,3 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
     </tr>
   </tbody>
 </table>
-
-## 🧩 Tech Stack (Icons)
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,lua,java,cs,go,ruby,html,css,mysql,mongodb,aws,docker,linux,git,arduino,unity,figma,jira)](https://skillicons.dev)
