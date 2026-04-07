@@ -21,18 +21,18 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
     </tr>
     <tr>
       <td>2nd Year</td>
-      <td>
+      <td style="white-space: nowrap;">
         <img src="https://skillicons.dev/icons?i=java,cs,arduino" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="32" height="32" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="48" height="48" />
       </td>
       <td><img src="https://skillicons.dev/icons?i=mongodb,linux" /></td>
     </tr>
     <tr>
       <td>3rd Year</td>
       <td>No formal courses</td>
-      <td>
+      <td style="white-space: nowrap;">
         <img src="https://skillicons.dev/icons?i=go,ruby,mysql,jira" />
-        <img src="https://raw.githubusercontent.com/mantisbt/mantisbt/master/images/mantis_logo.png" alt="Mantis Bug Tracker" width="32" height="32" />
+        <img src="https://raw.githubusercontent.com/mantisbt/mantisbt/master/images/mantis_logo.png" alt="Mantis Bug Tracker" width="48" height="48" />
       </td>
     </tr>
     <tr>
