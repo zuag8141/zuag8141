@@ -13,7 +13,7 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 | Self-learn | 1st Year | Lua |
 | Self-learn | 2nd Year | MongoDB |
 | Self-learn | 3rd Year | Ruby, Golang, MySQL |
-| Tech / Tool | Final | Git, Linux, Docker, AWS, MantisBT, Arduino, Unity, Figma |
+| Tech / Tool | All Years | Git, Linux, Docker, AWS, MantisBT, Arduino, Unity, Figma |
 
 ## 🧩 Tech Stack (Icons)
 
