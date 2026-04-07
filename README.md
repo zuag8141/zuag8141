@@ -21,13 +21,19 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
     </tr>
     <tr>
       <td>2nd Year</td>
-      <td><img src="https://skillicons.dev/icons?i=java,cs,linux,arduino" /></td>
-      <td><img src="https://skillicons.dev/icons?i=mongodb" /></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=java,cs,arduino" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" role="img" aria-label="Microsoft SQL Server" width="32" height="32" />
+      </td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb,linux" /></td>
     </tr>
     <tr>
       <td>3rd Year</td>
       <td>No formal courses</td>
-      <td><img src="https://skillicons.dev/icons?i=go,ruby,mysql,jira" /></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=go,ruby,mysql,jira" />
+        <img src="https://raw.githubusercontent.com/mantisbt/mantisbt/master/images/mantis_logo.png" alt="Mantis Bug Tracker" role="img" aria-label="Mantis Bug Tracker" width="32" height="32" />
+      </td>
     </tr>
     <tr>
       <td>Tech / Tool</td>
@@ -39,9 +45,3 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 ## 🧩 Tech Stack (Icons)
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,lua,java,cs,go,ruby,html,css,mysql,mongodb,aws,docker,linux,git,arduino,unity,figma,jira)](https://skillicons.dev)
-
-Custom icons for tools not covered in the main set:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" role="img" aria-label="Microsoft SQL Server" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/mantisbt/mantisbt/master/images/mantis_logo.png" alt="Mantis Bug Tracker" role="img" aria-label="Mantis Bug Tracker" width="32" height="32" />
-</p>
