@@ -26,7 +26,7 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
     </tr>
     <tr>
       <td>3rd Year</td>
-      <td>-</td>
+      <td>N/A</td>
       <td><img src="https://skillicons.dev/icons?i=go,ruby,mysql,jira" /></td>
     </tr>
     <tr>
@@ -40,5 +40,6 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,lua,java,cs,go,ruby,html,css,mysql,mongodb,aws,docker,linux,git,arduino,unity,figma,jira)](https://skillicons.dev)
 
+Custom icons for tools not covered in the main set:
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" alt="Microsoft SQL Server" height="32" />
 <img src="https://raw.githubusercontent.com/mantisbt/mantisbt/master/images/mantis_logo.png" alt="Mantis Bug Tracker" height="32" />
