@@ -5,12 +5,36 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 
 ## 🗓️ Learning Timeline
 
-| Year | School | Self-learn |
-|---|---|---|
-| 1st Year | <img src="https://skillicons.dev/icons?i=cpp,html,css" /> | <img src="https://skillicons.dev/icons?i=lua" /> |
-| 2nd Year | <img src="https://skillicons.dev/icons?i=java,cs" /> | <img src="https://skillicons.dev/icons?i=mongodb" /> |
-| 3rd Year | <img src="https://skillicons.dev/icons?i=dotnet" /> | <img src="https://skillicons.dev/icons?i=go,ruby,mysql" /> |
-| Tech / Tool | <img src="https://skillicons.dev/icons?i=git,linux,docker,aws" /> | <img src="https://skillicons.dev/icons?i=arduino,unity,figma" /> |
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>School</th>
+      <th>Self-learn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1st Year</td>
+      <td><img src="https://skillicons.dev/icons?i=cpp,html,css" /></td>
+      <td><img src="https://skillicons.dev/icons?i=lua" /></td>
+    </tr>
+    <tr>
+      <td>2nd Year</td>
+      <td><img src="https://skillicons.dev/icons?i=java,cs" /></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb,linux,arduino" /></td>
+    </tr>
+    <tr>
+      <td>3rd Year</td>
+      <td><img src="https://skillicons.dev/icons?i=dotnet" /></td>
+      <td><img src="https://skillicons.dev/icons?i=go,ruby,mysql" /></td>
+    </tr>
+    <tr>
+      <td>Tech / Tool</td>
+      <td colspan="2"><img src="https://skillicons.dev/icons?i=git,docker,aws,unity,figma" /></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🧩 Tech Stack (Icons)
 
