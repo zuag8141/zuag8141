@@ -10,22 +10,14 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 - **Specialization direction:** .NET
 - **Currently learning:** Golang and Ruby to build a multi-language coding mindset
 
-## 🌐 Front-end
+## 🧩 Tech Stack (Icons)
 
-- Basic HTML and CSS
+[![My Skills](https://skillicons.dev/icons?i=cpp,lua,java,cs,dotnet,go,ruby,html,css,mysql,mongodb,aws,docker,linux,git,arduino,unity,figma)](https://skillicons.dev)
 
-## 🗄️ Databases
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MantisBT](https://img.shields.io/badge/MantisBugTracker-000000?style=for-the-badge)
 
-- MSSQL
-- MongoDB
-- MySQL
+## 📝 Notes
 
-## 🧰 Tools & Technologies
-
-- Arduino
-- Linux
-- Git
-- Docker
-- Unity
-- Figma
-- MantisBugTracker
+- Front-end: basic HTML/CSS
+- Databases: MSSQL, MongoDB, MySQL
