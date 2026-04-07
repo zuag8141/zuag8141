@@ -5,15 +5,12 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 
 ## 🗓️ Learning Timeline
 
-| Track | Year | Languages / Tools |
+| Year | School | Self-learn |
 |---|---|---|
-| School | 1st Year | C++ |
-| School | 2nd Year | Java (MVC), Java Web (MVC2), C# WPF (MVVM) |
-| School | 3rd Year | .NET |
-| Self-learn | 1st Year | Lua |
-| Self-learn | 2nd Year | MongoDB |
-| Self-learn | 3rd Year | Ruby, Golang, MySQL |
-| Tech / Tool | All Years | Git, Linux, Docker, AWS, MantisBT, Arduino, Unity, Figma |
+| 1st Year | <img src="https://skillicons.dev/icons?i=cpp,html,css" /> | <img src="https://skillicons.dev/icons?i=lua" /> |
+| 2nd Year | <img src="https://skillicons.dev/icons?i=java,cs" /> | <img src="https://skillicons.dev/icons?i=mongodb" /> |
+| 3rd Year | <img src="https://skillicons.dev/icons?i=dotnet" /> | <img src="https://skillicons.dev/icons?i=go,ruby,mysql" /> |
+| Tech / Tool | <img src="https://skillicons.dev/icons?i=git,linux,docker,aws" /> | <img src="https://skillicons.dev/icons?i=arduino,unity,figma" /> |
 
 ## 🧩 Tech Stack (Icons)
 
