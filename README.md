@@ -3,12 +3,14 @@
 I'm a 3rd-year student at **FPT University (HCMC Campus)**.  
 Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 
-## 🚀 Learning Journey
+## 🗓️ Learning Timeline
 
-- **Base languages:** C++ (school), Lua (self-learning)
-- **Next path:** Java (MVC), Java Web (MVC2), C# WPF (MVVM)
-- **Specialization direction:** .NET
-- **Currently learning:** Golang and Ruby to build a multi-language coding mindset
+| Stage | Focus |
+|---|---|
+| 1st Year | C++ (school), Lua (self-learning), basic HTML/CSS |
+| 2nd Year | Java (MVC), Java Web (MVC2), C# WPF (MVVM) |
+| 3rd Year (Now) | .NET direction, databases (MSSQL, MongoDB, MySQL), tools (Git, Linux, Docker) |
+| Next | Internship at AWS (DevOps) and deeper multi-language practice with Go + Ruby |
 
 ## 🧩 Tech Stack (Icons)
 
@@ -16,8 +18,3 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MantisBT](https://img.shields.io/badge/Mantis%20Bug%20Tracker-000000?style=for-the-badge)
-
-## 📝 Notes
-
-- Front-end: basic HTML/CSS
-- Databases: MSSQL, MongoDB, MySQL
