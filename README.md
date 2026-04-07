@@ -29,10 +29,12 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
     </tr>
     <tr>
       <td>3rd Year</td>
-      <td>No formal courses</td>
+      <td style="white-space: nowrap;">
+        No formal courses
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="48" height="48" />
+      </td>
       <td style="white-space: nowrap;">
         <img src="https://skillicons.dev/icons?i=go,ruby,mysql" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="48" height="48" />
       </td>
     </tr>
     <tr>
