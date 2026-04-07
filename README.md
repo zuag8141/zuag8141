@@ -21,8 +21,8 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
     </tr>
     <tr>
       <td>2nd Year</td>
-      <td><img src="https://skillicons.dev/icons?i=java,cs" /></td>
-      <td><img src="https://skillicons.dev/icons?i=mongodb,linux,arduino" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java,cs,linux,arduino" /></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb" /></td>
     </tr>
     <tr>
       <td>3rd Year</td>
@@ -41,4 +41,4 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 [![My Skills](https://skillicons.dev/icons?i=cpp,lua,java,cs,dotnet,go,ruby,html,css,mysql,mongodb,aws,docker,linux,git,arduino,unity,figma)](https://skillicons.dev)
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MantisBT](https://img.shields.io/badge/Mantis%20Bug%20Tracker-000000?style=for-the-badge)
+![Mantis Bug Tracker](https://img.shields.io/badge/Mantis%20Bug%20Tracker-5CB85C?style=for-the-badge&logo=mantisbt&logoColor=white)
