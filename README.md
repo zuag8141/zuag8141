@@ -31,13 +31,16 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
       <td>3rd Year</td>
       <td>No formal courses</td>
       <td style="white-space: nowrap;">
-        <img src="https://skillicons.dev/icons?i=go,ruby,mysql,jira" />
-        <img src="https://raw.githubusercontent.com/mantisbt/mantisbt/master/images/mantis_logo.png" alt="Mantis Bug Tracker" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=go,ruby,mysql" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="48" height="48" />
       </td>
     </tr>
     <tr>
       <td>Tech / Tool</td>
-      <td colspan="2"><img src="https://skillicons.dev/icons?i=git,docker,aws,unity,figma" /></td>
+      <td colspan="2" style="white-space: nowrap;">
+        <img src="https://skillicons.dev/icons?i=git,docker,aws,unity,figma" />
+        <img src="https://raw.githubusercontent.com/mantisbt/mantisbt/f4795e18c0ab392a13686a86079a5cfa8b46bd00/images/mantis_logo_notext.png" alt="Mantis Bug Tracker" width="48" height="48" />
+      </td>
     </tr>
   </tbody>
 </table>
