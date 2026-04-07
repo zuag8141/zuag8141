@@ -5,12 +5,15 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 
 ## 🗓️ Learning Timeline
 
-| Stage | Focus |
-|---|---|
-| 1st Year | C++ (school), Lua (self-learning), basic HTML/CSS |
-| 2nd Year | Java (MVC), Java Web (MVC2), C# WPF (MVVM) |
-| 3rd Year (Now) | .NET direction, databases (MSSQL, MongoDB, MySQL), tools (Git, Linux, Docker) |
-| Next | Internship at AWS (DevOps) and deeper multi-language practice with Go + Ruby |
+| Track | Year | Languages / Tools |
+|---|---|---|
+| School | 1st Year | C++ |
+| School | 2nd Year | Java (MVC), Java Web (MVC2), C# WPF (MVVM) |
+| School | 3rd Year | .NET |
+| Self-learn | 1st Year | Lua |
+| Self-learn | 2nd Year | MongoDB |
+| Self-learn | 3rd Year | Ruby, Golang, MySQL |
+| Tech / Tool | Final | Git, Linux, Docker, AWS, MantisBT, Arduino, Unity, Figma |
 
 ## 🧩 Tech Stack (Icons)
 
