@@ -26,8 +26,8 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
     </tr>
     <tr>
       <td>3rd Year</td>
-      <td><img src="https://skillicons.dev/icons?i=dotnet" /></td>
-      <td><img src="https://skillicons.dev/icons?i=go,ruby,mysql" /></td>
+      <td>-</td>
+      <td><img src="https://skillicons.dev/icons?i=go,ruby,mysql,jira" /></td>
     </tr>
     <tr>
       <td>Tech / Tool</td>
@@ -38,7 +38,7 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 
 ## 🧩 Tech Stack (Icons)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,lua,java,cs,dotnet,go,ruby,html,css,mysql,mongodb,aws,docker,linux,git,arduino,unity,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,lua,java,cs,go,ruby,html,css,mysql,mongodb,aws,docker,linux,git,arduino,unity,figma,jira)](https://skillicons.dev)
 
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Mantis Bug Tracker](https://img.shields.io/badge/Mantis%20Bug%20Tracker-5CB85C?style=for-the-badge&logo=mantisbt&logoColor=white)
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" alt="Microsoft SQL Server" height="32" />
+<img src="https://raw.githubusercontent.com/mantisbt/mantisbt/master/images/mantis_logo.png" alt="Mantis Bug Tracker" height="32" />
