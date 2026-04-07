@@ -41,7 +41,7 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 [![My Skills](https://skillicons.dev/icons?i=cpp,lua,java,cs,go,ruby,html,css,mysql,mongodb,aws,docker,linux,git,arduino,unity,figma,jira)](https://skillicons.dev)
 
 Custom icons for tools not covered in the main set:
-<p>
+<p aria-label="Additional tool icons: Microsoft SQL Server and Mantis Bug Tracker">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" alt="Microsoft SQL Server" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/mantisbt/mantisbt/master/images/mantis_logo.png" alt="Mantis Bug Tracker" width="64" height="32" />
+  <img src="https://raw.githubusercontent.com/mantisbt/mantisbt/master/images/mantis_logo.png" alt="Mantis Bug Tracker" width="32" height="32" />
 </p>
