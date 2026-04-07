@@ -26,7 +26,7 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
     </tr>
     <tr>
       <td>3rd Year</td>
-      <td>N/A</td>
+      <td>No formal courses</td>
       <td><img src="https://skillicons.dev/icons?i=go,ruby,mysql,jira" /></td>
     </tr>
     <tr>
