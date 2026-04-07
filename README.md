@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Zuag 👋
 
-<!--
-**zuag8141/zuag8141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year student at **FPT University (HCMC Campus)**.  
+Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 
-Here are some ideas to get you started:
+## 🚀 Learning Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Base languages:** C++ (school), Lua (self-learning)
+- **Next path:** Java (MVC), Java Web (MVC2), C# WPF (MVVM)
+- **Specialization direction:** .NET
+- **Currently learning:** Golang and Ruby to build a multi-language coding mindset
+
+## 🌐 Front-end
+
+- Basic HTML and CSS
+
+## 🗄️ Databases
+
+- MSSQL
+- MongoDB
+- MySQL
+
+## 🧰 Tools & Technologies
+
+- Arduino
+- Linux
+- Git
+- Docker
+- Unity
+- Figma
+- MantisBugTracker
