@@ -1,6 +1,6 @@
-# Hi, I'm Zuag 👋
+# Hi, I'm Quang
 
-I'm a 3rd-year student at **FPT University (HCMC Campus)**.  
+I'm a 3rd-year student at **FPT University (HCMC Campus)**. 
 
 ## 🗓️ Learning Timeline
 
