@@ -1,7 +1,6 @@
 # Hi, I'm Zuag 👋
 
 I'm a 3rd-year student at **FPT University (HCMC Campus)**.  
-Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
 
 ## 🗓️ Learning Timeline
 
@@ -52,7 +51,6 @@ Next month, I’ll start my internship at **AWS**, likely in **DevOps**.
       <td colspan="2" style="white-space: nowrap;">
         <img src="https://skillicons.dev/icons?i=git" title="Git" />
         <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
-        <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
         <img src="https://skillicons.dev/icons?i=unity" title="Unity" />
         <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
         <img src="https://raw.githubusercontent.com/mantisbt/mantisbt/f4795e18c0ab392a13686a86079a5cfa8b46bd00/images/mantis_logo_notext.png" alt="Mantis Bug Tracker" title="Mantis Bug Tracker" width="48" height="48" />
